@@ -13,7 +13,12 @@ section {
 }
 
 .half-width {
-    width: 100%;
+    width: 50%;
+}
+
+.donate-today {
+    background-image: url(images/donation4.jpg);
+
 }
 
 .link-button {
@@ -26,5 +31,5 @@ section {
 }
 
 .donation13 {
-    background-image: ;
+    background-image: linear-gradient(orange, tomato);
 }
